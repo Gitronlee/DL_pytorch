@@ -18,6 +18,8 @@
 #### 2.1 框架介绍：
 ##### tensorflow：
  Google、c++，使用人数最多最庞大社区，有着python和c++接口，基于tensorflow的几个第三方库有 keras、tflearn、tfslim、tensorlayer等
+##### Caffe:
+对卷积神经网络的支持特别好，c++写的，无python接口仅提供了c++接口。
 ##### Theano：
 tensorflow更像是Theano的孩子。
 ##### Torch：
