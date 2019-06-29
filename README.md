@@ -1,4 +1,4 @@
----基于 colaboratory 更新完成 《深度学习入门之pytorch》的实战代码，并保证可运行。
+--- 《深度学习入门之pytorch》de 笔记
 
 
 
